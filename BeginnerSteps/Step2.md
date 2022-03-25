@@ -21,7 +21,8 @@ The terminal used for HackerSM64 is a bit different from your average Windows Te
 In order for Blender to be able to see WSL, you have to connect it to a network drive:
 1. Open File Explorer -> Linux
 2. Right-Click on `Ubuntu`, `Show more options` (Windows 11), `Map network drive...`, then click `Finish` on the prompt.
-3. In Blender, 
+3. In Blender, click the arrow on the right by the outliner -> `SM64` -> `SM64 File Settings` -> `Deco...`  
+4. Click on the folder icon and type `\\wsl.localhost\Ubuntu\home\` into the bar at the bottom.
 
 Resources:
 - List of all terminal commands: https://ss64.com/bash/
