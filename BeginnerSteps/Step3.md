@@ -1,4 +1,4 @@
-## Step 2: Using Resources
+## Step 3: Using Resources
 Now that you have everything, let's put it all together!
 1. Fast64 -> Blender  
 a. Edit -> Preferences -> Add-Ons -> Install...  
