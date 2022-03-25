@@ -31,3 +31,4 @@ Resources:
 - More of a visual learner? Try using Bitlytic's decomp tutorial: https://www.youtube.com/watch?v=Jkb7Naczoww.
 - Too scared to dive straight into Decomp? Try just using ROM Manager: https://pilzinsel64.de/sm64-rom-manager/
   - Here's a tutorial for that as well: https://www.youtube.com/watch?v=DgOvBdk_Q0w&list=PLq5z5T4eGMsXPZoMtKKYVW7H9_86p00ih (This is way more in-depth than the decomp tutorial)
+- Finally, the big doc filled with everything. Everything: https://docs.google.com/document/d/1pSYR91UiMVKnP3PyvJiCdwRF5wNS_nZzMe-r2WPQUJk/edit?usp=sharing
