@@ -14,7 +14,7 @@ The terminal used for HackerSM64 is a bit different from your average Windows Te
   - `cd ~[/path]`: Moves you to the home directory, or to a folder starting at the home directory
 - `ls`: Shows all non-hidden folders and files in the directory you're in.
   - `ls -a`: Shows all folders and files in the directory you're in.
-- `mnt/c`: Your literal "c drive" for Ubuntu, though not recommended to use for HackerSM64
+- `mnt/c`: Your literal "c drive" for Ubuntu, though not recommended to use for HackerSM64, as it can cause slower building times and even corrupt your data when building.
 - `sudo <command>`: Runs a command in "Superuser" mode, allowing you to do more things than normal. This isn't always necessary.
 - `make`: A command from `gcc` that builds C/C++ apps.
 
