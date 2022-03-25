@@ -18,5 +18,8 @@ The terminal used for HackerSM64 is a bit different from your average Windows Te
 - `sudo <command>`: Runs a command in "Superuser" mode, allowing you to do more things than normal. This isn't always necessary.
 - `make`: A command from `gcc` that builds C/C++ apps.
 
+In order for Blender to be able to see WSL, you have to connect it to a network drive:
+
+
 Resources:
 - List of all terminal commands: https://ss64.com/bash/
