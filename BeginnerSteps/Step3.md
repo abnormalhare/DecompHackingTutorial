@@ -16,6 +16,8 @@ d. Navigate to and open your HackerSM64 folder.
 e. Change `Compression ...` to `YAY0`  
 f. Open an Ubuntu terminal (Step 1, in blockquote) and navigate to the HackerSM64 folder  
 g. Type: `sudo apt update`, type you password, `sudo apt install build-essentials gcc-mips-linux-gnu`  
-h. Back in Blender, make sure you're in object mode, and, on the right, select `myLevel` under `Collection`  
-i. Open Tab `SM64 Level Exporter` in `SM64` on the right and click `Export Level`  
-> Note: If the command says `execvp: tools/<program>: Permission denied`, type `chmod +x tools/<program>` and rerun `sudo make`. Keep doing this until the build succeeds.  
+h. Finally, type `sudo make`
+i. Back in Blender, make sure you're in object mode, and, on the right, select `myLevel` under `Collection`  
+j. Open Tab `SM64 Level Exporter` in `SM64` on the right and click `Export Level`  
+
+> Note: If the command from point "h" says `execvp: tools/<program>: Permission denied`, type `chmod +x tools/<program>` and rerun `sudo make`. Keep doing this until the build succeeds.  
