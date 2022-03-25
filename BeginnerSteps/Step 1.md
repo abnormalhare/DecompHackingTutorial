@@ -18,5 +18,7 @@ If you are on Linux, the next point don't apply to you.
   - This is decomp. Make sure to put this in your /home/<user> (or anywhere you want on Linux) file or else  things might get a little weird.
 - Fast64: https://github.com/Fast-64/fast64
   - This allows you to connect Blender to HackerSM64. **Make sure to download as a ZIP file**
+- Someone2639's Base Model: https://cdn.discordapp.com/attachments/701163914775494656/759578327181688842/Fast64_Template_2.9_by_someone2639_1.blend
+  - This gives you a jump start. Make sure to open it in Blender
 - A good podcast: https://www.youtube.com/playlist?list=PLtiWkKVZkCXVu_3pkKsQviOZ7r_9b39JN
   - Putting this in the background helps you concentrate and relax when working to not cause too much stress on you :)
