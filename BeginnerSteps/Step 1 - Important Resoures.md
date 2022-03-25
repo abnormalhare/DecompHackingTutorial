@@ -26,3 +26,8 @@ If you are on Linux, the next point don't apply to you.
 And, if you have ADHD like me:
 - A good podcast: https://www.youtube.com/playlist?list=PLtiWkKVZkCXVu_3pkKsQviOZ7r_9b39JN
   - Putting this in the background helps you concentrate and relax when working to not cause too much stress on you :)
+
+Resources:
+- More of a visual learner? Try using Bitlytic's decomp tutorial: https://www.youtube.com/watch?v=Jkb7Naczoww.
+- Too scared to dive straight into Decomp? Try just using ROM Manager: https://pilzinsel64.de/sm64-rom-manager/
+  - Here's a tutorial for that as well: https://www.youtube.com/watch?v=DgOvBdk_Q0w&list=PLq5z5T4eGMsXPZoMtKKYVW7H9_86p00ih (This is way more in-depth than the decomp tutorial)
