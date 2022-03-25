@@ -9,7 +9,7 @@ If you are on Linux, the next point don't apply to you.
 - WSL (Windows Subsystem for Linux): https://docs.microsoft.com/en-us/windows/wsl/install
   - This is kind of stupid, but the next point only works with this.
 
-> Before moving on (Windows), makesure to set up your Unix username and password:  
+> Before moving on (Windows), make sure to set up your Unix username and password:  
 1\. Open Windows Terminal (Admin) by right-clicking your Windows Icon.  
 2\. Open a new Ubuntu tab by clicking the arrow by the plus sign.  
 3\. Type in `sudo`, and popup will ask for your Unix username and password.  
